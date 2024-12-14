@@ -11,16 +11,7 @@ I am an enthusiastic learner with a passion for exploring diverse tech fields. F
 ### 🚀 What I'm Working On
 
 - 🔭 Building machine learning models with **TensorFlow.js** and **TensorFlow Lite**.
-- 🎮 Developing immersive VR-based escape room games.
 - 📱 Creating innovative mobile and web applications with a focus on usability and performance.
-
----
-
-### 🌱 Currently Learning
-
-- Deep Learning techniques and ML project structuring.
-- Advanced concepts in **Artificial Intelligence**.
-<!--- - Subnetting and effective network implementation. -->
 
 ---
 
@@ -45,11 +36,11 @@ I am an enthusiastic learner with a passion for exploring diverse tech fields. F
 - Guided practical exercises in **Tinkercad** and assembly programming.
 - Assisted in building circuits like demultiplexers and subtractors.
 
-#### **Himatif FMIPA Unpad**
+<!--- #### **Himatif FMIPA Unpad**
 **Head of Scientific Department**  
 *Jan 2024 - Dec 2024*
 - Enhanced academic performance through educational programs and peer tutoring.
-- Initiated a YouTube channel for academic content.
+- Initiated a YouTube channel for academic content. -->
 
 #### **IFEST UNPAD**
 **Back End Developer**  
@@ -73,11 +64,15 @@ I am an enthusiastic learner with a passion for exploring diverse tech fields. F
 
 ---
 
-<!--- ### 📊 Stats
+### 📊 Stats
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JasonMs17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JasonMs17&theme=algolia"/>
+</a>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
---- -->
+---
 
 ### 🛠️ Tech & Tools
 
