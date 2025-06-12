@@ -66,7 +66,7 @@ I am an enthusiastic learner with a passion for exploring diverse tech fields. F
 
 ### 📊 Stats
 <p align="left">
-<a href="https://github.com/penuliscode">
+<a href="https://github.com/JasonMs17">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JasonMs17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JasonMs17&theme=algolia"/>
 </a>
